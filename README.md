@@ -1,6 +1,7 @@
 ### Olá 👋
 
 - 🔭 Hoje eu trabalho com desenvolvimento .net core
+- Já experimetei utilizar outras linguagens backend como: Python, PHP, Java
 - 🌱 Estudando DevOps
 
 <div align="left">
