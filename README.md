@@ -9,7 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquemachado1993&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquemachado1993&layout=compact&langs_count=7&theme=dark"/>
 </div>
-  
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="henrique-machado-5449115a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/henrique-machado-5449115a?trk=profile-badge">Henrique Machado</a></div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="dotnetcore" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="center" alt="javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
