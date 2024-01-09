@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho com desenvolvimento .net core
 - Já experimetei utilizar outras linguagens backend como: Python, PHP, Java
 - 🌱 Estudando DevOps
-- <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/henrique-machado-5449115a?trk=profile-badge">Linkedin</a> 
+- <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/henrique-machado-5449115a?trk=profile-badge" target="_blank">Linkedin</a> 
 
 <div align="left">
   <a href="https://github.com/henriquemachado1993">
