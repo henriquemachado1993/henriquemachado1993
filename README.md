@@ -1,6 +1,6 @@
 ### Olá 👋
 
-- <a class="badge-base__link LI-simple-link" href="https://www.nuget.org/profiles/henriquemachado1993" target="_blank">Libs nuget .NET CORE 6</a> 
+- <a class="badge-base__link LI-simple-link" href="https://www.nuget.org/profiles/henriquemachado1993" target="_blank">Libs nuget .NET CORE 6 e 8</a> 
 - <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/henrique-machado-5449115a?trk=profile-badge" target="_blank">Meu Linkedin</a> 
 
 <div align="left">
